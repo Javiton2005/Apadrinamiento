@@ -1,13 +1,5 @@
 # FirstRep
 
-hola buenas tardes
+Apuntes de las distintas clases de Introducion a la programación
 
-hola desde vs
-ahhhhhhhhh
-
-
-asadasdujahsd 
-linux
-
-hasdsdf
-sdfsdf
+Hecho por Javier y modificado o visto por Maria
