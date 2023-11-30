@@ -6,6 +6,7 @@ void main(){
     //Quiero que me hagas un codigo en donde incluyas los siguientes elementos
     /*  Recibe un numero.
         Quiero que en funcion del numero que se haya introducido pidas esa cantidas de letras del abecedario.
+        Imprime las letras
             Ejemplo:
                 Numero --> 5
                 Letras --> 'a' 'b' 'c' 'd' 'e'
@@ -23,7 +24,7 @@ void main(){
                            .
                            .
                            .
-                           El numero 50 es mayor que 50    
+                           El numero 51 es mayor que 50    
     */
 
 }
