@@ -5,7 +5,7 @@ void main(){
 
     //Quiero que me hagas un codigo en donde incluyas los siguientes elementos
     /*  Recibe un numero.
-        Quiero que en funcion del numero que se haya introducido pidas esa cantidas de letras del abecedario.
+        Quiero que en funcion del numero que se haya introducido pidas esa cantidad de letras del abecedario.
         Imprime las letras
             Ejemplo:
                 Numero --> 5

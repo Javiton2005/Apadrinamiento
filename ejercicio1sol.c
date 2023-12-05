@@ -31,4 +31,5 @@ void main(void){
         }
         valor2part--;
     }while(valor2part>50);
+    
 }
